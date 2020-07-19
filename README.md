@@ -6,19 +6,17 @@ Developed by:
 
 ## About
 
-This project focuses on finding a possible solutions and enhancements in the broad health and community categories. As a result of the current COVID-19 situation, it is of paramount importance to mitigate the spread of the virus to flatten the curve. This will serve in reducing the load on local hospitals, allowing local business to reopen, along with public schools, colleges, and universities. For the community and FIU, this project will seek to merge computer science techniques and integrate live sources of local COVID-19 data to provide a basis for identifying high risk candidates and assigning risk profiling metrics.  
+This project focuses on finding a possible solutions and enhancements in the broad health and community categories. As a result of the current COVID-19 situation, it is of paramount importance to mitigate the spread of the virus to flatten the curve. This will serve in reducing the load on local hospitals, allowing local business to reopen, along with public schools, colleges, and universities. For the community and FIU, this project will seek to merge computer science techniques and integrate live sources of local COVID-19 data to provide a basis for identifying high risk candidates and assigning statistical risk profiling metrics. Additionally, with further integration into a neo4j graph database, the possibilities greatly expand in enabling querying and visualization. Some practical examples involve identifying the individuals with a highest risk of   
 
 ## Tools, Technologies, and Resources
 
 <p align="center">
-
-<img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/cloud.png">
-<img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/neo4j.png">
+    <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/cloud.png">
+    <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/neo4j.png">
 <br>  
-<img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/bigquery.png">
-<img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/automl.jpg">
-<img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/storage.png">
-
+    <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/bigquery.png">
+    <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/automl.jpg">
+    <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/storage.png">
 </p>
 
 1. Python/Jupyter Notebook
@@ -46,5 +44,19 @@ Utilizing the completed python script, alongside Neo4j, we can construct a proof
 ![Neo4j Network](https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/neo4j.png)
 
 Further applications will involve network analysis and querying to identify possible high risk candidates, aid in contact tracing, and provide risk profiling metrics. 
+
+## Machine Learning Model Results and Predictions
+
+Here are the summary statistics of the deployed model:
+
+<p align="center">
+    <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/model%20results.JPG">
+</p>
+
+Also a sample of the estimated infections (cases) are depicted below:
+
+<p align="center">
+    <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/model-sample-results.JPG">
+</p>
 
 
