@@ -17,6 +17,8 @@ This project focuses on finding a possible solutions and enhancements in the bro
     <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/bigquery.png">
     <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/automl.jpg">
     <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/storage.png">
+<br>
+    <img src="https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/Google%20Resources/maps%20platform.png">
 </p>
 
 1. Python/Jupyter Notebook
