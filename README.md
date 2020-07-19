@@ -45,8 +45,6 @@ Utilizing the completed python script, alongside Neo4j, we can construct a proof
 
 ![Neo4j Network](https://github.com/eitanflor/pantherhacks/blob/master/Static%20Files/neo4j.png)
 
-Further applications will involve network analysis and querying to identify possible high risk candidates, aid in contact tracing, and provide risk profiling metrics.  
-
-## References
+Further applications will involve network analysis and querying to identify possible high risk candidates, aid in contact tracing, and provide risk profiling metrics. 
 
 
