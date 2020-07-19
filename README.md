@@ -9,8 +9,16 @@ Developed by:
 ## Tools, Technologies, and Resources
 
 1. Python/Jupyter Notebook
-2. Neo4j
-3. Google Cloud Platform
+1. Neo4j Graph Database
+1. Google Maps Platform
+   1. Geocoding API and Maps Javascript API
+1. Google Cloud Platform
+   1. Storage (Buckets)
+   1. BigData
+    1. Big Query
+   1. Artificial Intelligence
+     1. Tables (Dataset and ML Model) 
+   1. 
   
 
 ## Examples
