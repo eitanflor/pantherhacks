@@ -6,6 +6,8 @@ Developed by:
 
 ## About
 
+This project focuses on finding a possible solutions and enhancements in the broad health and community categories. As a result of the current COVID-19 situation, it is of paramount importance to mitigate the spread of the virus to flatten the curve. This will serve in reducing the load on local hospitals, allowing local business to reopen, along with public schools, colleges, and universities. For the community and FIU, this project will seek to merge computer science techniques and integrate live sources of local COVID-19 data to provide a basis for identifying high risk candidates and assigning risk profiling metrics.  
+
 ## Tools, Technologies, and Resources
 
 <p align="center">
